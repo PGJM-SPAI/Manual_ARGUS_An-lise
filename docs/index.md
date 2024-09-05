@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# ARGUS 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<span style="background-color: #5F9EA0; border-radius: 5px; padding: 6px; color: #FFFFFF ">Módulo Análise</span>
 
-## Commands
+<p style="text-align: justify;"> O Sistema ARGUS – Módulo Análise é voltado para o cruzamento de informações obtidas por meio da quebra de sigilo bancário. Esse módulo auxilia os usuários responsáveis pela análise bancária ao processar dados transmitidos pelo SIMBA, apresentando-os em uma interface intuitiva. Essa simplificação dos dados acelera a análise e torna os procedimentos investigativos mais eficientes. </p><br>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;"> Principais facilidades do Argus Análise </span><br>
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![](img/FacilidadesArgus.png)<br>
+*Figura 1 - Facilidades do Argus Análise.* <br><br>
