@@ -14,5 +14,27 @@
 ![](img/TabelaInvestigados.png)<br>
 *Figura x - Tabela "Investigados"*. <br>
 
-<p style="text-align: justify;"> Ao clicar nas barras do gráfico ou no CPF/CNPJ (primeira coluna da tabela) de algum dos investigados , o usuário será redirecionado para a tela específica do investigado em questão. </p>
+<p style="text-align: justify;"> Ao clicar nas barras do gráfico ou no CPF/CNPJ (primeira coluna da tabela) de algum dos investigados , o usuário será redirecionado para a tela específica do investigado em questão. </p><br>
+
+
+#### Barra de Ferramentas do Investigado
+<p style="text-align: justify;"> A barra de ferramentas do investigado é composta das seguintes funcionalidades: <strong>"Contas", "Volume Financeiro", "Proventos", "Movimentações entre Investigados", "Depositantes", "Beneficiários", "Créditos", "Débitos", "Vínculos a Crédito e Débito", "Movimentações Atípicas", "Extrato".</strong> Cada função tem um ícone específico, conforme se observa na figura abaixo (Figura x). </p>
+
+![](img/FerramentasInvestigados.png)<br>
+*Figura x - Barra de Ferramentas do Investigado*. <br>
+
+<img src="../img/CircleBanco.png"  width="60px">Contas<br>
+<img src="../img/CircleVolume.png" height="60px" width="60px">Volume Financeiro<br> 
+<img src="../img/CircleProventos.png" height="60px" width="60px"> Proventos<br>
+<img src="../img/CircleMovimentaçõesEntreInvestigados.png" height="60px" width="60px">Movimentações entre Investigados<br> 
+<img src="../img/CircleDepositantes.png" height="60px" width="60px">Depositantes<br> 
+<img src="../img/CircleBeneficiários.png" height="60px" width="60px">Beneficiários<br> 
+<img src="../img/CircleCréditos.png" height="60px" width="60px">Créditos <br> 
+<img src="../img/CircleDébitos.png" height="60px" width="60px"> Débitos<br>
+<img src="../img/CircleVínculos.png" height="60px" width="60px">Vínculos a Crédito e Débito<br> 
+<img src="../img/CircleMovimentações.png" height="60px" width="60px">Movimentações Atípicas<br> 
+<img src="../img/CircleExtratos.png" height="60px" width="60px">Extrato<br> 
+
+
+
 

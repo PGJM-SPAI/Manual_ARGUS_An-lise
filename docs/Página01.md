@@ -20,6 +20,8 @@
 ![](img/CriarNovaSenha.png)<br>
 *Figura 6 - Página "Criar nova senha".* <br><br>
 
+#### Tela do Investigado
+
 
 
 
