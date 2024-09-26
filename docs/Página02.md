@@ -74,34 +74,38 @@
 
 
 ##### <img src="../img/CircleCréditos.png" height="60px" width="60px">Créditos <br> 
-<p style="text-align: justify;">Este botão retorna os lançamentos a CRÉDITO, compilados por tipo ou descrição. O tipo de lançamento revela a procedência do crédito, se foi depósito ou
+<p style="text-align: justify;">Este botão retorna os lançamentos a CRÉDITO, compilados por tipo ou descrição (Figura x). O tipo de lançamento revela a procedência do crédito, se foi depósito ou
 transferência bancária, por exemplo. A descrição, por sua vez, oferece detalhamento ainda maior da origem do lançamento, visto que aponta se o depósito foi em dinheiro ou em cheque.</p>
 
---- Imagem 
+![](img/OperaçõesCredito.png)<br>
+*Figura x - Gráfico "Créditos"*. <br>
 
 ##### <img src="../img/CircleDébitos.png" height="60px" width="60px"> Débitos<br>
 <p style="text-align: justify;">Este botão retorna os lançamentos a DÉBITO, compilados por tipo ou descrição. O tipo de lançamento revela a procedência do debito, se foi depósito ou transferência bancária, por exemplo. A descrição, por sua vez, oferece detalhamento ainda maior da origem do lançamento, visto que aponta se o depósito foi em dinheiro ou em cheque.</p>
 
---- Imagem 
+![](img/OperaçõesDébito.png)<br>
+*Figura x - Gráfico "Débitos"*. <br>
 
 ##### <img src="../img/CircleVínculos.png" height="60px" width="60px">Vínculos a Crédito e Débito<br> 
 <p style="text-align: justify;">Nesta opção é possível verificar quais valores foram transacionados a crédito e a débito com uma ou mais pessoa física ou jurídica, investigadas ou não. Ou seja, demonstra vínculos entre o investigado e envolvidos, que foram ao mesmo tempo depositantes e beneficiários. As informações encontram-se organizadas por critério de CPF/CNPJ, cujo link redireciona o usuário para o extrato, que contém detalhamento dos lançamentos relativos ao envolvido selecionado, conforme apontado na Figura x abaixo.</p>
 
---- Imagem 
+![](img/VinculoCeD.png)<br>
+*Figura x - Depositantes e Beneficiários*. <br>
 
 ##### <img src="../img/CircleMovimentações.png" height="60px" width="60px">Movimentações Atípicas<br> 
 <p style="text-align: justify;">Este botão exibe os lançamentos de maior volume financeiro, bem como os valores que se repetiram no extrato bancário, apresentados em forma de tabela, que contém a identificação do envolvido (Nome e CNPJ), ano e mês, bem como a natureza do valor, se débito ou crédito. Conforme se observa na figura abaixo, o gráfico expressa os lançamentos atípicos por meio de símbolos, cujos atalhos redirecionam o usuário para outra tela, que contém outro gráfico e tabela que apresentam todos os lançamentos semelhantes àquele selecionado inicialmente. </p>
 
---- Imagem 
+![](img/Atípicas.png)<br>
+*Figura x - Gráfico de Movimentações Atípicas*. <br>
 
 <p style="text-align: justify;">O campo CPF/CNPJ é disposto em forma de link para redirecionamento, mediante o qual será possível consultar o extrato de todos os lançamentos do envolvido e do investigado em questão, conforme apontado na Figura x, acima. </p>>
 
 ##### <img src="../img/CircleExtratos.png" height="60px" width="60px">Extrato<br> 
 
-<p style="text-align: justify;">A partir dessa opção, é possível visualizar todos os extratos aglutinados em uma única planilha, a qual compreende todas as transações do investigado, conforme ilustrado na Figura x, a seguir</p>>
+<p style="text-align: justify;">A partir dessa opção, é possível visualizar todos os extratos aglutinados em uma única planilha, a qual compreende todas as transações do investigado, conforme ilustrado na Figura x, a seguir. É possível exportar a planilha para Excel clicando no botão <img src="../img/Download.png" width="30px">.</p>>
 
---- Imagem 
-
+![](img/ExtratoBarra.png)<br>
+*Figura x - Extrato*. <br>
 
 
 
