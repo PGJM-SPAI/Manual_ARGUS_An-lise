@@ -2,7 +2,7 @@
 
 ![](img/MovInvestigados.png)<br>
 
-<p style="text-align: justify;">Esta opção elenca os investigados por nome e CPF/CNPJ, mostrando os totais de crédito, débito, outros e a quantidade de lançamentos que compõem o somatório de valores demostrado. Trata-se do botão que dá acesso à navegação dos dados de cada um dos investigados.</p><br>
+<p style="text-align: justify;">Esta opção elenca os investigados por <strong>nome e CPF/CNPJ</strong>, mostrando os totais de crédito, débito, outros e a quantidade de lançamentos que compõem o somatório de valores demostrado. Trata-se do botão que dá acesso à navegação dos dados de cada um dos investigados.</p><br>
 
 #### <span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;">Gráfico "Movimentações dos Investigados"</span>
 ![](img/MovimentaçõesDosInvestigados.png)<br>
@@ -58,7 +58,7 @@
 <p style="text-align: justify;">Salienta-se que somente retornarão as transações que foram devidamente identificadas pelas instituições financeiras.</p>
 
 ![](img/MovEntreInvestigados.png)<br>
-*Figura x - Gráficos Movimentações Entre Investigados*. <br>
+*Figura x - Gráficos "Movimentações Entre Investigados"*. <br>
 
 ##### <img src="../img/CircleDepositantes.png" height="60px" width="60px">Depositantes<br> 
 <p style="text-align: justify;">Este botão apresenta as informações bancárias catalogadas por DEPOSITANTES, agrupadas por CPF/CNPJ ou por NOME. É possível consultar o detalhamento dos lançamentos relacionados ao envolvido clicando nos CPF/CNPJ ou nas barras dos gráficos, como ilustrado na Figura x abaixo.</p>
