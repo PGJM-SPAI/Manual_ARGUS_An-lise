@@ -2,7 +2,7 @@
 
 ![](img/MovInvestigados.png)<br>
 
-<p style="text-align: justify;">Esta opção elenca os investigados por <strong>nome e CPF/CNPJ</strong>, mostrando os totais de crédito, débito, outros e a quantidade de lançamentos que compõem o somatório de valores demostrado. Trata-se do botão que dá acesso à navegação dos dados de cada um dos investigados.</p><br>
+<p style="text-align: justify;">Esta opção elenca os investigados por nome e CPF/CNPJ, mostrando os totais de crédito, débito, outros e a quantidade de lançamentos que compõem o somatório de valores demostrado. Trata-se do botão que dá acesso à navegação dos dados de cada um dos investigados.</p><br>
 
 #### <span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;">Gráfico "Movimentações dos Investigados"</span>
 ![](img/MovimentaçõesDosInvestigados.png)<br>
