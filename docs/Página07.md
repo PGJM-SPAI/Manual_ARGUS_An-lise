@@ -15,9 +15,9 @@ dados, e, por conseguinte, identificar os responsáveis pelas movimentações.</
 <p style="text-align: justify;">Ao clicar nas opções do gráfico ou no CPF/CNPJ do investigado (primeira coluna na tabela) o usuário será redirecionado para extrato de movimentações identificadas pelo Argus, conforme figura x. Nessa tela serão apresentadas informações como data e valor da operação, envolvidos identificados e o sentido da transação, que indica de qual conta o valor sai e para qual conta ele vai, onde:  </p>
 <ul>
 <li><strong>Sentido >>> </strong> : Indica que o valor sai da conta à esquerda e chega na conta à direita (débito).</ol>
-<li><strong> Sentido <<< </strong> : Indica que o valor sai da conta à direita e chega na conta à esquerda (crédito).</ol>
+<li><strong>Sentido <<< </strong> : Indica que o valor sai da conta à direita e chega na conta à esquerda (crédito).</ol>
 </ul>
 
 ![](img/TransaçãoExtrato.png)<br>
-*Figura x - : Extrato de movimentações identificadas pelo Argus*. <br>
+*Figura x - Extrato de movimentações identificadas pelo Argus*. <br>
 
