@@ -2,5 +2,4 @@
 
 ![](img/EnvolvimentoComMúltiplos.png)<br>
 
-<p style="text-align: justify;"> ? Question</p>
 

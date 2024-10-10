@@ -2,10 +2,10 @@
 
 ![](img/VínculoCréditoDébito.png)<br>
 
-<p style="text-align: justify;">Este botão apresenta quais as pessoas físicas e jurídicas foram, ao mesmo tempo, depositantes e beneficiárias de cada investigado. As informações são apresentadas em forma de gráfico e tabela, conforme indicado na Figura x, abaixo.</p>
+<p style="text-align: justify;">Este botão apresenta quais as pessoas físicas e jurídicas foram, ao mesmo tempo, depositantes e beneficiárias de cada investigado. As informações são apresentadas em forma de gráfico e tabela, conforme indicado na Figura 30, abaixo. É possível exportar toda a consulta para uma planilha do Excel, onde será admitida maior manipulação dos dados para fins de análise, clicando no ícone  <img src="../img/Download.png" width="30px">.</p>
 
 ![](img/Vínculos.png)<br>
-*Figura x - Vínculos a crédito e a débito*. <br>
+*Figura 30 - Tela "Vínculos a crédito e a débito"*. <br>
 
 <p style="text-align: justify;">Esta opção de análise constitui-se extremamente relevante em virtude de apresentar de maneira sistematizada o fluxo financeiro a crédito e a débito entre cada um dos investigados e os envolvidos que foram, ao mesmo tempo, depositantes e beneficiários. Assim, é possível analisar os vínculos decorrentes dessas operações e, desse modo, rastrear a trilha do dinheiro movimentado.</p>
 

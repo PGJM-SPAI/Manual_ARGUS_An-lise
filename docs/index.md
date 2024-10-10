@@ -8,18 +8,18 @@
 #### <span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;"> Instrução - grupo de ícones</span><br>
 
 ![](img/Ícones.png)<br>
-*Figura x - Grupo de ícones do canto superior esquerdo da tela.* <br>
+*Figura 2 - Grupo de ícones do canto superior esquerdo da tela.* <br>
 
-<p style="text-align: justify;">Todas as telas do módulo de análise ostentarão, no canto superior esquerdo, este grupo de ícones (Figura x), onde: </p>
+<p style="text-align: justify;">Todas as telas do módulo de análise ostentarão, no canto superior esquerdo, este grupo de ícones (Figura 2), onde: </p>
 
 <svg xmlns="http://www.w3.org/2000/svg" height="20px" width="26px" viewBox="0 0 576 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2290d6" d="M575.8 255.5c0 18-15 32.1-32 32.1l-32 0 .7 160.2c0 2.7-.2 5.4-.5 8.1l0 16.2c0 22.1-17.9 40-40 40l-16 0c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1L416 512l-24 0c-22.1 0-40-17.9-40-40l0-24 0-64c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32 14.3-32 32l0 64 0 24c0 22.1-17.9 40-40 40l-24 0-31.9 0c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2l-16 0c-22.1 0-40-17.9-40-40l0-112c0-.9 0-1.9 .1-2.8l0-69.7-32 0c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg> : Retorna à seleção de gráficos 
 <br>
 <svg xmlns="http://www.w3.org/2000/svg" height="20px" width="26px" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2290d6" d="M459.5 440.6c9.5 7.9 22.8 9.7 34.1 4.4s18.4-16.6 18.4-29l0-320c0-12.4-7.2-23.7-18.4-29s-24.5-3.6-34.1 4.4L288 214.3l0 41.7 0 41.7L459.5 440.6zM256 352l0-96 0-128 0-32c0-12.4-7.2-23.7-18.4-29s-24.5-3.6-34.1 4.4l-192 160C4.2 237.5 0 246.5 0 256s4.2 18.5 11.5 24.6l192 160c9.5 7.9 22.8 9.7 34.1 4.4s18.4-16.6 18.4-29l0-64z"/></svg> : Retorna ao filtro anterior
 <br>
-<svg xmlns="http://www.w3.org/2000/svg" height="20px" width="26px" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2290d6" d="M3.9 54.9C10.5 40.9 24.5 32 40 32l432 0c15.5 0 29.5 8.9 36.1 22.9s4.6 30.5-5.2 42.5L320 320.9 320 448c0 12.1-6.8 23.2-17.7 28.6s-23.8 4.3-33.5-3l-64-48c-8.1-6-12.8-15.5-12.8-25.6l0-79.1L9 97.3C-.7 85.4-2.8 68.8 3.9 54.9z"/></svg> : Oculta/exibe filtro. As opções de filtro são: <br>
+<svg xmlns="http://www.w3.org/2000/svg" height="20px" width="26px" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2290d6" d="M3.9 54.9C10.5 40.9 24.5 32 40 32l432 0c15.5 0 29.5 8.9 36.1 22.9s4.6 30.5-5.2 42.5L320 320.9 320 448c0 12.1-6.8 23.2-17.7 28.6s-23.8 4.3-33.5-3l-64-48c-8.1-6-12.8-15.5-12.8-25.6l0-79.1L9 97.3C-.7 85.4-2.8 68.8 3.9 54.9z"/></svg> : Oculta/exibe filtro. <strong>As opções de filtro são (Figura 3): </strong> <br>
 
 <img src="../img/OpçõesFiltro2.png" width="100%">
-*Figura x - Opções de Filtro.* <br>
+*Figura 3 - Opções de Filtro.* <br>
 
 
 <ul style="text-align: justify;">
@@ -42,5 +42,5 @@ determinada apuração, como “pagamentos salariais”; “proventos” e/ou �
 #### <span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;"> Principais facilidades do Argus Análise </span><br>
 
 ![](img/FacilidadesArgus.png)<br>
-*Figura x - Facilidades do Argus Análise.* <br><br>
+*Figura 4 - Facilidades do Argus Análise.* <br><br>
 
